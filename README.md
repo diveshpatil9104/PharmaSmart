@@ -107,10 +107,7 @@ We welcome contributions to improve PharmaSmart! To contribute:
 
 Feel free to submit issues or suggestions to enhance the project!
 
----
 
-## **License**
-This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
 
