@@ -4,7 +4,7 @@ from PIL      import Image, ImageTk
 class BackgroundPage:
     def __init__(self, root):
         self.root = root
-        # ensure that size of image is same as/greater than size of frame
+        # ensure that size  of image is same as/greater than size of frame
         self.f = Frame(root, width=1600, height=900)
         self.f.pack()
         self.f.pack_propagate(0)
