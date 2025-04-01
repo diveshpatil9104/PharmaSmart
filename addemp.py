@@ -1,7 +1,7 @@
 from tkinter import *
 import tkinter as tk
-from tkinter  import ttk,messagebox
-import re
+from tkinter    import ttk,messagebox
+import re  
 import time
 from datetime import datetime
 from PIL import Image, ImageTk
