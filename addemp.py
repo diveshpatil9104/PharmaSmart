@@ -13,7 +13,7 @@ from BackgroundPage import BackgroundPage
 class BackgroundPage:
     def __init__(self, root):
         self.root = root
-        # Ensure that size of image is same as/greater than size of frame
+        # Ensure that size of image is same  as/greater than size of frame
         self.raw_image = Image.open("add image.png")
         # Define the size of the image, which will also determine the size of the frame
         self.raw_image = self.raw_image.resize((1030, 610))
