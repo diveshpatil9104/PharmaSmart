@@ -8,7 +8,7 @@ from  Ademp import  AdEmp
 from sales import sales
 from stock import stock
 from inventory import InventoryApp
-from connector.ConnectionProvider import ConnectionProvider
+from connector.ConnectionProvider  import ConnectionProvider
 from PIL import Image, ImageTk
 from BackgroundPage import BackgroundPage
 
