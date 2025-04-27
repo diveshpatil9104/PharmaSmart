@@ -1,6 +1,6 @@
 import os
 import tkinter as tk
-from tkinter import ttk,    messagebox
+from tkinter import ttk,messagebox
 from email.message import EmailMessage
 import ssl
 import smtplib
