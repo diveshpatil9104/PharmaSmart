@@ -7,7 +7,7 @@ from datetime import datetime
 from PIL import Image, ImageTk
 
 import Ademp
-from connector.ConnectionProvider import ConnectionProvider
+from connector.ConnectionProvider import  ConnectionProvider
 from BackgroundPage import BackgroundPage
 
 class BackgroundPage:
